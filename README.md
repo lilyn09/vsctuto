@@ -30,6 +30,7 @@ Note: If this is a guided tutorial, please—if possible—use two screens: one 
 Checklist for Success:
 
 - Fork the vsctuto repository on GitHub.
+- Inspect the `.github/workflows` and click "I understand my workflows, go ahead and enable them" in the Actions Tab.
 
 Visual Studio Code Settings (20 minutes)
 
@@ -50,7 +51,7 @@ Devcontainer (Secure Cloud Based Solution) (10 minutes)
 - Run the Codespaces on GitHub. Now you have a few minutes to explore the `.devcontainer/devcontainer.json` file.
 - Validate your codespace and whether it was built successfully.
 
-Analysis (20 minutes)
+Analysis (20+ minutes)
 
 - Open the Codespaces for `vsctuto` on GitHub. 
 - Load and explore the Trial data in `data/data.csv` using your own analysis script to determine which drug works. The installed extensions and settings should hint you the function names and format the file on save. You need to install R or Python dependencies like pandas, although it is possible to use only standard library.
